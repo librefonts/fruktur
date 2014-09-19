@@ -1,0 +1,41 @@
+{
+  "name": "Fruktur",
+  "designer": "Viktoriya Grabowska",
+  "license": "OFL",
+  "visibility": "Sandbox",
+  "category": "Display",
+  "size": 41880,
+  "fonts": [
+    {
+      "name": "Fruktur",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Fruktur-Regular-TTF.ttf",
+      "postScriptName": "Fruktur-Regular",
+      "fullName": "Fruktur Regular",
+      "copyright": "Copyright (c) 2013, Sorkin Type Co (www.sorkintype.com)\nwith Reserved Font Name 'Fruktur'"
+    },
+    {
+      "name": "Fruktur",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Fruktur-Regular-OTF.ttf",
+      "postScriptName": "Fruktur-Regular",
+      "fullName": "Fruktur-Regular",
+      "copyright": "Copyright (c) 2013, Sorkin Type Co (www.sorkintype.com)\rwith Reserved Font Name 'Fruktur'"
+    },
+    {
+      "name": "Fruktur",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Fruktur-Regular.ttf",
+      "postScriptName": "Fruktur-Regular",
+      "fullName": "Fruktur Regular",
+      "copyright": "Copyright (c) 2013, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name 'Fruktur'"
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "dateAdded": "2013-01-16"
+}

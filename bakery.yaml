@@ -1,0 +1,6 @@
+commit: HEAD
+process_files: [Fruktur-Regular.ttf.ttx, src/Fruktur-Regular.otf.ttx, src/Fruktur-Regular-TTF.sfd,
+  src/Fruktur-Regular-OTF.sfd]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
